@@ -1,4 +1,6 @@
-﻿# Bot_Discord
+# Documentação em andamento ...
+
+# Bot_Discord
  
  Um bot simples criado para o discord
  
