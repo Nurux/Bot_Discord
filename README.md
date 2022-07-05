@@ -23,10 +23,17 @@
  
  - hug
  - kiss
- - slap
+ - cute
+ - alarm
+ - baka
+ - bat
 
 
  ### Cotação
+ Esses são comandos relacionados a cotação de crypto-moedas que serão extraidos da API da Binance.
  
- ### Time
+ - bitcoin
+ - ethereum
+
+ 
  
